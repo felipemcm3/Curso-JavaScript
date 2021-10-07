@@ -1,0 +1,14 @@
+body{
+    background-color: #3F64EB;
+}
+main{
+    background-color: #A6EB5B;
+    font: normal 20px Arial;
+    color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 500px;
+    margin-top: 60px;
+    text-align: center;
+    line-height: 200px;
+}

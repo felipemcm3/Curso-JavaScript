@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(82, 78, 78);
+    font: normal 20px Arial;
+}
+main{
+    background-color: white;
+    height: 600px;
+    margin: 0px 30px 0 30px;
+    background-color: rgb(94, 126, 230);
+}
+
+main > h1{
+    text-align: center;
+    color: teal;
+    background-color: rgb(103, 209, 126);
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.conteudo > h2{
+    color: rgb(238, 78, 78);
+}
+.ultra{
+    color: red;
+}
+.basica{
+    color: green;
+}
+.conteudo{
+    padding-left: 20px;
+    text-align: center;
+}
