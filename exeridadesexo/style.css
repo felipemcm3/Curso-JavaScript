@@ -7,6 +7,10 @@ header{
     color: white;
 }
 
+div#res{
+    text-align: center;
+}
+
 section{
     background-color: white;
     border-radius: 5px;
