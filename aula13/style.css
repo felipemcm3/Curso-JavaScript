@@ -6,17 +6,20 @@ body{
 
 section{
     background-color: #D5A1DE;
-    height: 450px;
+    height: auto;
     width: 900px;
     margin: auto;
     border-radius: 20px;
     box-shadow: 3px 3px 3px #7F1691;
     padding: 20px;
+    font-size: 20px;
+    
 }
 
 section input{
     margin: 10px;
-    width: 60px;
+    width: 80px;
+    font-size: 20px;
 }
 
 footer{
