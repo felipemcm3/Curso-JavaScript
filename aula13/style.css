@@ -1,0 +1,32 @@
+body{
+    background-color: #AB1DC4;
+    font: normal 20px Arial;
+
+}
+
+section{
+    background-color: #D5A1DE;
+    height: 450px;
+    width: 900px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px #7F1691;
+    padding: 20px;
+}
+
+section input{
+    margin: 10px;
+    width: 60px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    margin-top: 10px;
+    
+}
+header{
+    text-align: center;
+    color: white;
+}

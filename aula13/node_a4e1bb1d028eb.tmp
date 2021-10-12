@@ -1,4 +1,0 @@
-x = 0
-while(x <= 8){
-    console.log(`Passo ${x}`)
-}
