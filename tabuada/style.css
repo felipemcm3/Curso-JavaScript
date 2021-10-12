@@ -1,0 +1,33 @@
+body{
+    background-color: #435373;
+    color: white;
+    
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: #AEC5F2;
+    color: black;
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+footer{
+    margin-top: 10px;
+    font-style: italic;
+    text-align: center;
+}
+
+.resposta{
+    background-color: white;
+    width: 200px;
+    height: auto;
+    margin-top: 15px;
+}
+
