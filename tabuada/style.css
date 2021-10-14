@@ -16,6 +16,24 @@ section{
     margin: auto;
     border-radius: 10px;
     padding: 20px;
+    font-size: 25px;
+
+}
+
+#numero{
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+}
+
+#cxmostrar{
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+}
+
+.informando{
+    text-size-adjust: 20px;
 }
 
 footer{
@@ -24,10 +42,10 @@ footer{
     text-align: center;
 }
 
-.resposta{
+#resposta{
     background-color: white;
     width: 200px;
-    height: auto;
     margin-top: 15px;
+    border-radius: 5px;
 }
 
