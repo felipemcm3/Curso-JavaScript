@@ -14,41 +14,41 @@ function verificar(){
         var img = document.createElement('img')
         img.setAttribute('id', 'foto')
         if(fsex[0].checked){
-            genero = 'Homem'
+            
             if(idade >= 0 && idade <= 10){
-                //garoto
+                genero = 'garoto'
                 img.setAttribute('src', 'imagens/menino.jpg')
             }
             else if(idade > 10 && idade < 21){
-                //rapaz
+                genero = 'rapaz'
                 img.setAttribute('src', 'imagens/rapaz.jpg')
             }
             else if(idade >= 21 && idade < 50){
-                //homem
+                genero = 'homem'
                 img.setAttribute('src', 'imagens/homem.jpg')
             }
             else{
-                //idoso
+                genero = 'idoso'
                 img.setAttribute('src', 'imagens/idoso.jpg')
             }
         }
         else if(fsex[1].checked){
-            genero = 'Mulher'
+            
 
             if(idade >= 0 && idade <= 10){
-                //garoto
+                genero = 'garota'
                 img.setAttribute('src', 'imagens/menina.jpg')
             }
             else if(idade < 21){
-                //rapaz
+                genero = 'moça'
                 img.setAttribute('src', 'imagens/moca.jpg')
             }
             else if(idade < 50){
-                //homem
+                genero = 'mulher'
                 img.setAttribute('src', 'imagens/mulher.jpg')
             }
             else{
-                //idoso
+                genero = 'idosa'
                 img.setAttribute('src', 'imagens/idosa.jpg')
             }
         }
