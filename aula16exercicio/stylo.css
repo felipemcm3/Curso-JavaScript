@@ -1,0 +1,38 @@
+body{
+    background-color: #088C67;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    margin: auto;
+    background-color: #F2D857;
+    height: auto;
+    width: 500px;
+    padding: 20px;
+    font-size: 25px;
+}
+#numero{
+    width: 60px;
+    height: 40px;
+    font-size: 25px;
+}
+.botao{
+    height: 40px;
+    width: 80px;
+    margin: 10px;
+    font-size: 16px;
+}
+#imprimindo{
+    font-size: 20px;
+    width: 250px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
